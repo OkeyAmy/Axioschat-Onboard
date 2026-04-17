@@ -146,7 +146,7 @@ graph TD;
     </tr>
     <tr>
       <td>Web3 Interaction</td>
-      <td>Wagmi, Ethers.js (via AI service)</td>
+      <td>Wagmi, Ethers.js (via AI service), thirdweb SDK (for wallet connection: [thirdweb.com](https://thirdweb.com))</td>
     </tr>
     <tr>
       <td>AI Integration</td>
